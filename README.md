@@ -10,7 +10,10 @@ Created a quiz on JavaScript fundamentals that stores the scores of each questio
 
 Class Activities
 Google 
-You tube
+Youtube
+
+## Link
+https://shaleem90.github.io/CodeQuiz/
 
 
 
